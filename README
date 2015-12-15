@@ -1,5 +1,0 @@
-#Overview
-This is the libdex project from android AOSP. The only difference here is that the dex structs are made writable.
-
-#Dependencies
-- libz
